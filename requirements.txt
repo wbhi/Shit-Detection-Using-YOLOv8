@@ -1,0 +1,15 @@
+# Core ML
+torch==2.11.0
+torchvision==0.26.0
+ultralytics==8.4.33
+
+# Image processing
+opencv-python==4.13.0.92
+Pillow==10.4.0
+numpy==2.4.4
+
+# Model hub
+huggingface_hub==0.36.0
+
+# Web UI
+gradio==6.11.0
